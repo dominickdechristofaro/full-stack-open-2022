@@ -1,0 +1,35 @@
+# POST new_note
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
+note over server:
+-- Payload is processed and saved 
+to the DB on the server.
+end note
+server-->browser: Redirect to /exampleapp/notes and 302 status code
+
+# GET notes
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/notes
+server-->browser: notes
+
+# GET main.css
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
+server-->browser: main.css
+
+# GET main.js
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.js
+server-->browser: main.js
+
+# Process JS when it reaches the browser
+note over browser:
+browser starts executing js-code
+that requests JSON data from server 
+end note
+
+# GET data.json
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
+server-->browser: [{ content: "HTML is easy", date: "2019-05-23" }, ...]
+
+# Render the new note in the browser
+note over browser:
+browser executes the event handler
+that renders notes to display
+end note
