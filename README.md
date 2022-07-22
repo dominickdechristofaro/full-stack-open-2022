@@ -2,6 +2,11 @@
 - [Main Page](https://fullstackopen.com/en/)
 - [Submission System](https://studies.cs.helsinki.fi/stats/)
 
+# Programs
+- [Anecdotes](https://github.com/dominickdechristofaro/full-stack-open-2022/tree/main/projects/anecdotes)
+- [Course Information](https://github.com/dominickdechristofaro/full-stack-open-2022/tree/main/projects/course-information)
+- [Unicafe](https://github.com/dominickdechristofaro/full-stack-open-2022/tree/main/projects/unicafe)
+
 # Part 00: Fundamentals of Web apps
 - [X] Part 00-A: General info
 - [X] Part 00-B: Fundamentals of WEb apps
