@@ -8,9 +8,35 @@
 - [Unicafe](https://github.com/dominickdechristofaro/full-stack-open-2022/tree/main/projects/unicafe)
 
 # Progress
-- [X] [Part 00: Fundamentals of Web apps]()
-- [X] [Part 01: Introduction to React]()
-- [ ] Part 02: Communicating with server
+- [X] [Part 00: Fundamentals of Web apps](https://fullstackopen.com/en/part0)
+  - [X] Part 00-A: General info
+  - [X] Part 00-B: Fundamentals of Web apps
+    - [X] Exercise 0.1: HTML
+    - [X] Exercise 0.2: CSS
+    - [X] Exercise 0.3: HTML forms
+    - [X] Exercise 0.4: New note
+    - [X] Exercise 0.5: Single page app
+    - [X] Exercise 0.6: New note
+- [X] [Part 01: Introduction to React](https://fullstackopen.com/en/part1)
+  - [X] Part 01-A: Introduction to React
+    - [X] Exercise 1.1: course information, step1
+    - [X] Exercise 1.2: course information, step2
+  - [X] Part 01-B: JavaScript
+    - [X] Exercise 1.3: course information, step3
+    - [X] Exercise 1.4: course information, step4
+    - [X] Exercise 1.5: course information, step5
+  - [X][Part 01-C: Component state, event handlers
+  - [X] Part 01-D: A more complex state, debugging React apps
+    - [X] Exercise 1.6: unicafe, step1 
+    - [X] Exercise 1.7: unicafe, step2
+    - [X] Exercise 1.8: unicafe, step3
+    - [X] Exercise 1.9: unicafe, step4
+    - [X] Exercise 1.10: unicafe, step5
+    - [X] Exercise 1.11: unicafe, step6
+    - [X] Exercise 1.12: anecdotes, step1
+    - [X] Exercise 1.13: anecdotes, step2
+    - [X] Exercise 1.14: anecdotes, step3
+- [ ] [Part 02: Communicating with server](https://fullstackopen.com/en/part2)
   - [ ] Part 02-A: Rendering a collection, modules
     - [ ] Exercise 2.1: Course information, step6
     - [ ] Exercise 2.2: Course information, step7
@@ -49,3 +75,7 @@
 - Part 11: CI/CD
 - Part 12: Containers
 - Part 13: Using relational databases
+
+# To Do:
+- Update course-information readme
+- Update unicafe readme
