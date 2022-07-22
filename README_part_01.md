@@ -1,0 +1,21 @@
+# part_01 progress
+
+- [X] Part 01: Introduction to React
+  - [X] a: Introduction to React
+    - [X] Exercise 1.1: course information, step1
+    - [X] Exercise 1.2: course information, step2
+  - [X] b: JavaScript
+    - [X] Exercise 1.3: course information, step3
+    - [X] Exercise 1.4: course information, step4
+    - [X] Exercise 1.5: course information, step5
+  - [X] c: Component state, event handlers
+  - [X] d: A more complex state, debugging React apps
+    - [X] Exercise 1.6: unicafe, step1 
+    - [X] Exercise 1.7: unicafe, step2
+    - [X] Exercise 1.8: unicafe, step3
+    - [X] Exercise 1.9: unicafe, step4
+    - [X] Exercise 1.10: unicafe, step5
+    - [X] Exercise 1.11: unicafe, step6
+    - [X] Exercise 1.12: anecdotes, step1
+    - [X] Exercise 1.13: anecdotes, step2
+    - [X] Exercise 1.14: anecdotes, step3
